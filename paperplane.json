@@ -11,8 +11,7 @@
   "directory": "chars/char0",
   "image": "Covers/char0.png",
   "pmx": "守岸兔 1.07-裸.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190221,
@@ -26,8 +25,7 @@
   "directory": "chars/char1",
   "image": "Covers/char1.png",
   "pmx": "安魂曲-新 R18.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190222,
@@ -41,8 +39,7 @@
   "directory": "chars/char2",
   "image": "Covers/char2.png",
   "pmx": "Marine_BaseBody_Mark2_1.02.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190223,
@@ -56,8 +53,7 @@
   "directory": "chars/char3",
   "image": "Covers/char3.png",
   "pmx": "情趣小甜橙1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190224,
@@ -71,8 +67,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "Columbina.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190225,
@@ -86,8 +81,7 @@
   "directory": "chars/char5",
   "image": "Covers/char5.png",
   "pmx": "Eula_Bikini(Azusa89).pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190226,
@@ -101,8 +95,7 @@
   "directory": "chars/char6",
   "image": "Covers/char6.png",
   "pmx": "Theresa R18 Ver1.2.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190227,
@@ -116,8 +109,7 @@
   "directory": "chars/char73",
   "image": "Covers/char73.png",
   "pmx": "瑟莉姆R18Ver1.0.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190228,
@@ -131,8 +123,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "德麗莎IK+_平面化.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190229,
@@ -146,8 +137,7 @@
   "directory": "chars/char9",
   "image": "Covers/char9.png",
   "pmx": "布洛妮娅-OL装 R18Ver1.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 190230,
@@ -161,7 +151,6 @@
   "directory": "chars/char10",
   "image": "Covers/char10.png",
   "pmx": "布蘭兒-R18V1.3.1.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  }
 ]
