@@ -11,8 +11,7 @@
   "directory": "chars/char0",
   "image": "Covers/char0.png",
   "pmx": "守岸兔 1.07.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191245,
@@ -26,8 +25,7 @@
   "directory": "chars/char4",
   "image": "Covers/char4.png",
   "pmx": "Columbina1.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191246,
@@ -41,8 +39,7 @@
   "directory": "chars/char7",
   "image": "Covers/char7.png",
   "pmx": "Griseo R18 Ver1.2.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191247,
@@ -56,8 +53,7 @@
   "directory": "chars/char71",
   "image": "Covers/char71.png",
   "pmx": "Kianna R18 v1.2.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191248,
@@ -71,8 +67,7 @@
   "directory": "chars/char71",
   "image": "Covers/char71.png",
   "pmx": "Kianna R18 v1.2（无绳子）.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191249,
@@ -86,8 +81,7 @@
   "directory": "chars/char71",
   "image": "Covers/char71.png",
   "pmx": "Kianna R18 v1.2（腕Ik无绳子）.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191250,
@@ -101,8 +95,7 @@
   "directory": "chars/char72",
   "image": "Covers/char72.png",
   "pmx": "琪亚娜R18v1.4.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191251,
@@ -116,8 +109,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "德麗莎IK+_無平面化.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191252,
@@ -131,8 +123,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "德麗莎_平面化.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191253,
@@ -146,8 +137,7 @@
   "directory": "chars/char8",
   "image": "Covers/char8.png",
   "pmx": "德麗莎_無平面化.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191254,
@@ -161,8 +151,7 @@
   "directory": "chars/char9",
   "image": "Covers/char9.png",
   "pmx": "布洛妮娅-OL装 R18Ver1.1（腕IK）.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191255,
@@ -176,8 +165,7 @@
   "directory": "chars/char9",
   "image": "Covers/char9.png",
   "pmx": "过审用.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  },
  {
   "id": 191256,
@@ -191,7 +179,6 @@
   "directory": "chars/char10",
   "image": "Covers/char10.png",
   "pmx": "布蘭兒-R18V1.3.1兔耳は物理的ではない.pmx",
-  "base": "https://carlutic.github.io/paperplane_21/",
-  "noPhysics": true
+  "base": "https://carlutic.github.io/paperplane_21/"
  }
 ]
